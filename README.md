@@ -1,4 +1,4 @@
-# co2ff48c6b6b0582ffb8a4d37
+# This is my project from Scrimba
 
 Quick start:
 
