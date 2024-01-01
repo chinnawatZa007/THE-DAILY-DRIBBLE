@@ -1,5 +1,5 @@
 # This is my project from Scrimba
-<a href="https://app.netlify.com/sites/bucolic-froyo-8ae08f/overview" target="_blank">Live preview</a>
+<p><a href="https://app.netlify.com/sites/bucolic-froyo-8ae08f/overview" target="_blank">Live preview</a></p>
 Quick start:
 
 ```
