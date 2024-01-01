@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    
+}
+
+.main{
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.content-image{
+    width: 380px;
+}
+
+.position{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 10px;
+    background-color: #121212;
+    color: white;
+    width: 260px;
+}
+
+.email-input{
+    width: 235px;
+}
+
+.padding-in-box{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px; 
+    padding-right: 10px; 
+}
+
+.border-item{
+    border: solid #121212 3px;
+}
+
+.color{
+    color: #121212;
+}
+
+.fontweight{
+    font-weight: bold;
+}
